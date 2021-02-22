@@ -1,2 +1,3 @@
-SecondServlet.class
-FirstServlet.class
+LogoutServlet.class
+ProfileServlet.class
+LoginServlet.class
